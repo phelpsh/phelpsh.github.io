@@ -79,6 +79,7 @@ hr {
     max-height: 550px;
     margin-left: auto;
     margin-right: auto;
+    opacity: 0.3;
 }
 
 .center-image {
@@ -103,6 +104,7 @@ hr {
 @media screen and (max-width: 768px) {
     h1 { font-size: 32px; }
     h2 {text-align: center;}
+    h4 { font-size: 12px; }
 }
 
 @media screen and (max-width: 450px) {
